@@ -4,7 +4,7 @@ A complete voice-to-action AI pipeline: speak a command → transcribe → class
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture :
 
 ```
 ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐
