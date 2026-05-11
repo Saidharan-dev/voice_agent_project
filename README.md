@@ -117,4 +117,4 @@ All file creation is sandboxed to the `output/` folder. Path traversal attempts 
 | small | ~2 GB | ~6x realtime |
 | medium | ~5 GB | ~2x realtime |
 
-If your machine is slow, use the **Groq API** STT backend — it's free-tier and extremely fast (~10x realtime). Set `STT Backend = Groq API` and paste your key from https://console.groq.com.
+If your machine is slow, use the **Groq API** STT backend — it's free-tier and extremely fast (~10x realtime). Set `STT Backend = Groq API` and paste  key from https://console.groq.com.
