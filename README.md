@@ -57,7 +57,7 @@ ollama serve                # starts local server on :11434
 
 **Option B: Claude API**
 - Get an API key from https://console.anthropic.com
-- Enter it in the sidebar of the UI
+- Enter in  sidebar of the UI
 
 ### 4. Run the app
 ```bash
