@@ -37,7 +37,7 @@ A complete voice-to-action AI pipeline: speak a command → transcribe → class
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-ai-agent.git
+git clone https://github.com/Saidharan-dev/voice-ai-agent.git
 cd voice-ai-agent
 ```
 
